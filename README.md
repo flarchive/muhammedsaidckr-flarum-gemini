@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of muhammedsaidckr/flarum-gemini.** Not for installation: use [Packagist](https://packagist.org/packages/muhammedsaidckr/flarum-gemini) or the [upstream repository](https://github.com/muhammedsaidckr/flarum-gemini).
 
-**0** versions archived · Latest: [`v2.0.1`](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^1.2.0`
+**8** versions archived · Latest: [`v2.0.1`](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-02-18 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v1.0.0) |
+| `v1.0.1` | 2024-02-20 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v1.0.1) |
+| `v1.0.2` | 2024-06-24 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v1.0.2) |
+| `v1.0.3` | 2024-07-07 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v1.0.3) |
+| `v1.0.4` | 2024-07-10 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v1.0.4) |
+| `v1.1.0` | 2026-04-26 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v1.1.0) |
+| `v2.0.0` | 2026-04-26 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v2.0.0) |
+| `v2.0.1` | 2026-04-28 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-gemini/tree/archive/v2.0.1) |
 
 Catalog entry: [packages/muhammedsaidckr-flarum-gemini.json](https://github.com/flarchive/archive-index/blob/main/packages/muhammedsaidckr-flarum-gemini.json)
 
